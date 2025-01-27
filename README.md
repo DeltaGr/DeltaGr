@@ -65,12 +65,8 @@ Glad to see you here! I'm a passionate **Junior Full-Stack Web Developer** with 
   
 <br>
 <br>
-</p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<h3 align="left"> Other Weapons Tools:</h3>
+<h3 align="left"> Other Tools:</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/.psd_-Photoshop-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=for-the-badge&logo=Photoshop&logoColor=3a83c7&labelColor=black&color=3a83c7">
