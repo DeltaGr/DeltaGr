@@ -47,6 +47,28 @@ Here are some ideas to get you started:
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 
 
-### Other Languages I know
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
+### Tech Stack
 
+I mostly work with **JavaScript**, specifically **Node.js** in the backend with **AWS** as the cloud and **Kafka** as the queuing system. Recently, I have been tinkering with **GoLang**.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-ea2845?logo=nestjs&logoColor=white)
+![GoLang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazon-aws)
+
+### Open Source Initiatives
+
+During [Hacktoberfest](https://github.com/vinitshahdeo/Hacktoberfest2021), I initiated a program aimed at [helping beginners kickstart their journey into open-source](https://vinitshahdeo.dev/hacktoberfest-2021), impacting over 1200+ beginners worldwide. Currently, I'm seeking collaboration for [#50DaysOfJavaScript](https://50daysofjavascript.netlify.app/), a community-led open-source initiative to enhance JavaScript skills to ace the next JS interviews. Please consider joining as a **participant**, **mentor**, or a **community partner**.
+
+[![GitHub Star - Vinit Shahdeo](https://img.shields.io/badge/GitHub_Star-%E2%AD%90_vinitshahdeo-E89B25?colorA=302237&logo=github)](https://stars.github.com/profiles/vinitshahdeo/) 
+
+<!--
+[![50DaysOfJavaScript](https://github-readme-stats.vercel.app/api/pin/?username=vinitshahdeo&repo=50DaysOfJavaScript&theme=gruvbox)](https://github.com/vinitshahdeo/50DaysOfJavaScript)
+-->
