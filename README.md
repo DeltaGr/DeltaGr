@@ -38,14 +38,18 @@ I’m a developer who loves discovering patterns in everything. From clean code 
 
 ✅ Skills & Pattern Mastery:
 
-Front-End: 🌐 HTML + CSS + JavaScript + React
+**Front-End:** 🌐 HTML + CSS + JavaScript + React
 – I build clean, structured layouts that are a joy to navigate. Patterns like flexbox, grid and building pixel-perfect layouts that follow patterns such as responsiveness and modular design. 🔶📏
-Back-End: ⚙️ Node.js + Ruby on Rails + MongoDB
+<br>
+**Back-End:** ⚙️ Node.js + Ruby on Rails + MongoDB
 – Structuring APIs and databases to make sure data flows like clockwork, where every part has its place in the system. 🔗📊
-- Version Control: Git (always)
+<br>
+**Version Control:** Git (always)
 – Keeping everything in check, organized, and on track, like branches in a tree. 🌳
 - Design: 🎨 Designing UI patterns and UX flows that prioritize user needs and create smooth journeys. 🟣💡
-- Artistic Eye: I know how to make things pretty, and functional too! 🎨  
+  <br>
+  **Artistic Eye:** I know how to make things pretty, and functional too! 🎨
+  <br> 
 🌍 Remote = My ideal habitat
 📍 Open to Relocation (Pattern matches with your team? I’m there!)
 
