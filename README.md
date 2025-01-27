@@ -26,10 +26,10 @@ I'm Charlotte </h1>
 
 <p align='left'>
 
-Glad to see you here! I'm a passionate **Junior Software Engineer** with a strong passion for **JavaScript**, **Ruby on Rails**, **CSS** and **HTML**. 
+Glad to see you here! I'm a passionate **Junior Full-Stack Web Developer** with a passion for  **Ruby on Rails**, **JavaScript**, **CSS** and **HTML**. 
 
-- Currently learning **Python** by Self 
-- I’m currently open for a new job opportunity
+- 🌱 I’m currently learning **Python**
+- I’m open for a new job opportunity to get my learning into practice 
 
 </p>
 <br>
@@ -37,8 +37,6 @@ Glad to see you here! I'm a passionate **Junior Software Engineer** with a stron
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skillset</b>
 <br>
 ### Tech Stack
-
-I mostly work with **JavaScript**, specifically **Node.js** in the backend with **//** as the cloud and **//** as the queuing system. 
 <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
@@ -56,11 +54,6 @@ I mostly work with **JavaScript**, specifically **Node.js** in the backend with 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 <br>
 <br>
-
-<h1 align="center">Hi 👋, I'm Charlotte</h1>
-<h3 align="center">A Junior Full-Stack Web Developer from Germany</h3>
-
-- 🌱 I’m currently learning **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
