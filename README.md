@@ -59,6 +59,8 @@ Glad to see you here! I'm a passionate **Junior Full-Stack Web Developer** with 
 <img src="http://img.shields.io/badge/-Heroku-430098?&logo=heroku&style=for-the-badge&logoColor=white"></a>
 <img src="https://img.shields.io/badge/React-20232A?logo=react&style=for-the-badge&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/Redux-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=for-the-badge&logo=Redux&color=4521c4
+">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=for-the-badge&logoColor=white"></a>
   
@@ -76,9 +78,7 @@ Glad to see you here! I'm a passionate **Junior Full-Stack Web Developer** with 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40">   
         <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>  </a> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-plain-wordmark.svg" height="40" width="40">
-          
- <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sketch/sketch-plain-wordmark.svg" hight="40" width="40"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sketch/sketch-plain-wordmark.svg" hight="80" width="80">
           
           </p>
 
