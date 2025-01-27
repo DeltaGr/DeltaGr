@@ -75,6 +75,11 @@ I’m a full stack developer with a background in art and design, constantly exp
 Currently job-hunting and excited to join a team that values my unique approach to problem-solving. 
 Ready to build the future, one line of code at a time. Let’s make magic happen! ✨
 
+<hr>
+<br>
+<br>
+
+
 
 <p align='left'>
 
