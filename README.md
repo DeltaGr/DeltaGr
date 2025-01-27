@@ -32,10 +32,6 @@ I’m a full stack developer with a background in art and design, constantly exp
 
 I’m a developer who loves discovering patterns in everything. From clean code to design aesthetics, I’m passionate about creating applications that follow a logical flow. I bring my artistic background into the world of code by crafting smooth, organized structures.
 
-💡 Always Curious – I’m constantly learning and evolving, bringing new ideas and a unique perspective to everything I do. I love building systems that are efficient, logical, and visually appealing.
-
-🧠  My brain loves logic, and structure. I dive deep into patterns, systems, and problem-solving. I’m drawn to the systems, cycles, and grids that drive good code. Everything has its place—like components, loops, and functions that fit together seamlessly. Think of me as a precision artist, but instead of a paintbrush, I wield JavaScript and Ruby on Rails.
-
 ✅ Skills & Pattern Mastery:
 
 **Front-End:** 🌐 HTML + CSS + JavaScript + React
@@ -55,18 +51,7 @@ I’m a developer who loves discovering patterns in everything. From clean code 
 
 Currently job-hunting and excited to join a team that values my unique approach to problem-solving. Let's create something amazing together!
 Ready to build the future, one line of code at a time. Let’s make magic happen! ✨
-</p></div>
 
-
-<p align='left'>
-
-Glad to see you here! I'm a **Junior Full Stack Web Developer** with a passion for  **Ruby on Rails**, **JavaScript**, **CSS** and **HTML**. 
-
-- 🔭 I’m currently working on **new projects**
-- 🌱 I’m currently learning **Python**
-- I’m open for a new job opportunity to get my learning into practice 
-
-</p>
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack:</b>
@@ -102,6 +87,22 @@ Glad to see you here! I'm a **Junior Full Stack Web Developer** with a passion f
   <img src="https://img.shields.io/badge/.ai_-Adobe_Illustrator-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=for-the-badge&logo=Illustrator&logoColor=eda558&labelColor=black&color=eda558">
   <img src="https://img.shields.io/badge/Figma-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=for-the-badge&logo=Figma&logoColor=b93ac7&labelColor=9cf0e5&color=b93ac7">
   <img src="https://img.shields.io/badge/Sketch-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=for-the-badge&logo=Sketch&logoColor=ed8f1c&labelColor=black&color=ed8f1c"></p>
+</p></div>
+
+
+<p align='left'>
+
+Glad to see you here! I'm a **Junior Full Stack Web Developer** with a passion for  **Ruby on Rails**, **JavaScript**, **CSS** and **HTML**. 
+
+ 🔭 I’m currently working on **new projects**
+ 🌱 I’m currently learning **Python**
+
+ 💡 Always Curious – I’m constantly learning and evolving, bringing new ideas and a unique perspective to everything I do. I love building systems that are efficient, logical, and visually appealing.
+
+ 🧠  My brain loves logic, and structure. I dive deep into patterns, systems, and problem-solving. I’m drawn to the systems, cycles, and grids that drive good code. Everything has its place—like components, loops, and functions that fit together seamlessly. Think of me as a precision artist, but instead of a paintbrush, I wield JavaScript and Ruby on Rails.
+
+</p>
+
 
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deltagr&show_icons=true&locale=en&layout=compact" alt="deltagr" /></p>
