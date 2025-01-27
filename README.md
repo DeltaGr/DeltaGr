@@ -38,7 +38,9 @@ Glad to see you here! I'm a passionate **Junior Full-Stack Web Developer** with 
 <br>
 ### Tech Stack
 <br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+<img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white">
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
@@ -52,7 +54,6 @@ Glad to see you here! I'm a passionate **Junior Full-Stack Web Developer** with 
 <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 <img src="(https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white">
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 <br>
