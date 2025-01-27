@@ -85,7 +85,6 @@ Ready to build the future, one line of code at a time. Let’s make magic happen
 
  💡 Always Curious – I’m constantly learning and evolving, bringing new ideas and a unique perspective to everything I do. I love building systems that are efficient, logical, and visually appealing.
 <br><br>
-<hr>
  🧠  My brain loves logic, and structure. I dive deep into patterns, systems, and problem-solving. I’m drawn to the systems, cycles, and grids that drive good code. Everything has its place—like components, loops, and functions that fit together seamlessly. Think of me as a precision artist, but instead of a paintbrush, I wield JavaScript and Ruby on Rails.
 
 </p>
