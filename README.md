@@ -20,21 +20,20 @@ I'm Charlotte </h1>
 
 **About me**
 
-<picture> <img align="right" src="#" width = 250px></picture>
-
 <br>
 
 <p align='left'>
 
-Glad to see you here! I'm a passionate **Junior Full-Stack Web Developer** with a passion for  **Ruby on Rails**, **JavaScript**, **CSS** and **HTML**. 
+Glad to see you here! I'm a **Junior Full Stack Web Developer** with a passion for  **Ruby on Rails**, **JavaScript**, **CSS** and **HTML**. 
 
+- 🔭 I’m currently working on **new projects**
 - 🌱 I’m currently learning **Python**
 - I’m open for a new job opportunity to get my learning into practice 
 
 </p>
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack:</b>
 <br>
 <br>     
 <p align="left">
@@ -65,7 +64,7 @@ Glad to see you here! I'm a passionate **Junior Full-Stack Web Developer** with 
 <br>
 
 <h3 align="left"> Other Tools:</h3>
-
+<br>
 <p align="left">
   <img src="https://img.shields.io/badge/.psd_-Photoshop-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=for-the-badge&logo=Photoshop&logoColor=3a83c7&labelColor=black&color=3a83c7">
   <img src="https://img.shields.io/badge/.indd_-Adobe_InDesign-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=for-the-badge&logo=Ad&logoColor=eda558&labelColor=black&color=d43da7">
