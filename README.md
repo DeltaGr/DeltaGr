@@ -103,7 +103,7 @@ Ready to build the future, one line of code at a time. Let’s make magic happen
 
 Information A**|**Information B**|
 |:---:|:---:|
-|**Front-End:** 🌐 HTML + CSS + JavaScript + React<br>
+|**Front-End:** <br/>🌐 HTML + CSS + JavaScript + React<br>
 <br>| – I build clean, structured layouts that are a joy to navigate. Patterns like flexbox, grid and building pixel-perfect layouts that follow patterns such as responsiveness and modular design. 🔶📏 |
 | Here we go <br/> Here we go again | ![stats-two](https://github-readme-stats.vercel.app/api?... |
 
