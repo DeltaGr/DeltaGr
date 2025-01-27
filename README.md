@@ -72,7 +72,7 @@ I’m a full stack developer with a background in art and design, constantly exp
 
 📍 Open to Relocation (I match with your team? Let's chat!)<br>
 
-Currently job-hunting and excited to join a team that values my unique approach to problem-solving. Let's create something amazing together!
+Currently job-hunting and excited to join a team that values my unique approach to problem-solving. 
 Ready to build the future, one line of code at a time. Let’s make magic happen! ✨
 
 
