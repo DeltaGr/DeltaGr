@@ -63,7 +63,7 @@ Glad to see you here! I'm a **Junior Full Stack Web Developer** with a passion f
 <br>
 <br>
 
-<h3 align="left"> Other Tools:</h3>
+## <h3 align="left"> Other Tools:</h3>
 <br>
 <br> 
 <p align="left">
