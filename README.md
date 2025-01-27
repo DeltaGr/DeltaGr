@@ -77,10 +77,6 @@ Ready to build the future, one line of code at a time. Let’s make magic happen
 
 <hr>
 <br>
-<br>
-
-
-
 <p align='left'>
 
  🔭 I’m currently working on **new projects**<br>
