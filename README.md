@@ -22,6 +22,38 @@ I'm Charlotte </h1>
 
 <br>
 
+<div align="right>
+  <p align="left">
+
+**🔬 Junior Full Stack Web Developer | Artistic Mind, Architect of Patterns & Code** 🌠
+
+Graduated and full of ideas – now I’m here to experiment and push the boundaries of what code can do and to tackle the web development universe! 
+I’m a full stack developer with a background in art and design, constantly exploring new ways to blend creativity with cutting-edge technology.
+
+I’m a developer who loves discovering patterns in everything. From clean code to design aesthetics, I’m passionate about creating applications that follow a logical flow. I bring my artistic background into the world of code by crafting smooth, organized structures.
+
+💡 Always Curious – I’m constantly learning and evolving, bringing new ideas and a unique perspective to everything I do. I love building systems that are efficient, logical, and visually appealing.
+
+🧠  My brain loves logic, and structure. I dive deep into patterns, systems, and problem-solving. I’m drawn to the systems, cycles, and grids that drive good code. Everything has its place—like components, loops, and functions that fit together seamlessly. Think of me as a precision artist, but instead of a paintbrush, I wield JavaScript and Ruby on Rails.
+
+✅ Skills & Pattern Mastery:
+
+Front-End: 🌐 HTML + CSS + JavaScript + React
+– I build clean, structured layouts that are a joy to navigate. Patterns like flexbox, grid and building pixel-perfect layouts that follow patterns such as responsiveness and modular design. 🔶📏
+Back-End: ⚙️ Node.js + Ruby on Rails + MongoDB
+– Structuring APIs and databases to make sure data flows like clockwork, where every part has its place in the system. 🔗📊
+- Version Control: Git (always)
+– Keeping everything in check, organized, and on track, like branches in a tree. 🌳
+- Design: 🎨 Designing UI patterns and UX flows that prioritize user needs and create smooth journeys. 🟣💡
+- Artistic Eye: I know how to make things pretty, and functional too! 🎨  
+🌍 Remote = My ideal habitat
+📍 Open to Relocation (Pattern matches with your team? I’m there!)
+
+Currently job-hunting and excited to join a team that values my unique approach to problem-solving. Let's create something amazing together!
+Ready to build the future, one line of code at a time. Let’s make magic happen! ✨
+</p></div>
+
+
 <p align='left'>
 
 Glad to see you here! I'm a **Junior Full Stack Web Developer** with a passion for  **Ruby on Rails**, **JavaScript**, **CSS** and **HTML**. 
