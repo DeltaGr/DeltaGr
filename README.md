@@ -59,13 +59,9 @@ Glad to see you here! I'm a **Junior Full Stack Web Developer** with a passion f
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=for-the-badge&logoColor=white"></a>
 </p>
-  
-<br>
-<br>
 
-## <h3 align="left"> Other Tools:</h3>
+## <h3 align="left"> Other Tools:</h3> ## 
 <br>
-<br> 
 <p align="left">
   <img src="https://img.shields.io/badge/.psd_-Photoshop-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=for-the-badge&logo=Photoshop&logoColor=3a83c7&labelColor=black&color=3a83c7">
   <img src="https://img.shields.io/badge/.indd_-Adobe_InDesign-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=for-the-badge&logo=Ad&logoColor=eda558&labelColor=black&color=d43da7">
