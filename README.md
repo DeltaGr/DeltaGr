@@ -61,11 +61,11 @@ I’m a full stack developer with a background in art and design, constantly exp
 
 **|**|
 |:---:|:---:|
-|**Front-End:** <br/>🌐 HTML + CSS + JavaScript + React| I build clean, structured layouts that are a joy to navigate. Patterns like flexbox, grid and building pixel-perfect layouts that follow patterns such as responsiveness and modular design. 🔶📏 |
-| **Back-End:** <br/> ⚙️ Node.js + Ruby on Rails + MongoDB | Structuring APIs and databases to make sure data flows like clockwork, where every part has its place in the system. 🔗📊 |
+|**Front-End:** <br/>🌐 HTML + CSS + JavaScript + React| I build clean, structured layouts that are a joy to navigate. Playing with Flexbox, grid and building pixel-perfect layouts that follow patterns such as responsiveness and modular design. |
+| **Back-End:** <br/> ⚙️ Node.js + Ruby on Rails + MongoDB | Structuring APIs and databases to make sure data flows like clockwork, where every part has its place in the system. |
 | **Version Control:** <br/> Github (always) |  Keeping everything in check, organized, and on track, like branches in a tree. 🌳 |
-| **Design:** <br/> UI / UX | 🎨 Designing UI patterns and UX flows that prioritize user needs and create smooth journeys. 🟣💡 |
-| **Artistic Eye:** <br/>| I know how to make things pretty, and functional too! 🎨 |
+| **Design:** <br/> UI / UX |  Designing UI patterns and UX flows that prioritize user needs and create smooth journeys. |
+| **Artistic Eye:** <br/>| I know how to make things pretty, and functional too! |
 
   <br> 
 🌍 Remote = My ideal habitat
