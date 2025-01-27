@@ -101,18 +101,10 @@ Ready to build the future, one line of code at a time. Let’s make magic happen
 </p>
 
 
-
-
-| - | - |
-| **Text**: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum | **Text** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum |
-
-
-
-
 Information A**|**Information B**|
 |:---:|:---:|
-| Text1 <br/> Text2 | ![stats-one](https://github-readme-stats.vercel.app/api?... |
-| Text3 <br/> Text4 | ![stats-two](https://github-readme-stats.vercel.app/api?... |
+| This is a test <br/> This is a second test | ![stats-one](https://github-readme-stats.vercel.app/api?... |
+| Here we go <br/> Here we go again | ![stats-two](https://github-readme-stats.vercel.app/api?... |
 
 
 <div align="center">
