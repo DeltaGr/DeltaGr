@@ -75,9 +75,11 @@ Ready to build the future, one line of code at a time. Let’s make magic happen
 <img src="https://img.shields.io/badge/Redux-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=for-the-badge&logo=Redux&color=4521c4">
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=for-the-badge&logoColor=white">
 </p>
+
 ---
 <h3 align="left"> Other Tools:</h3>
 ---
+
 <br>
 <p align="left">
   <img src="https://img.shields.io/badge/.psd_-Photoshop-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=for-the-badge&logo=Photoshop&logoColor=3a83c7&labelColor=black&color=3a83c7">
