@@ -42,7 +42,7 @@ Glad to see you here! I'm a passionate **Junior Full-Stack Web Developer** with 
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=black">
 <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/RubyOnRails-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=plastic&logo=rubyonrails&logoColor=white&style=for-the-badge&color=red">  
+<img src="https://img.shields.io/badge/RubyOnRails-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=plastic&logo=rubyonrails&logoColor=white&color=red">  
 <img src="https://img.shields.io/badge/Webpacker-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=plastic&logo=Webpack&logoColor=white&style=for-the-badge&color=blue">  
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&style=for-the-badge&logoColor=white"> 
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&style=for-the-badge&logoColor=white">
