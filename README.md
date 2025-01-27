@@ -73,18 +73,12 @@ Glad to see you here! I'm a passionate **Junior Full-Stack Web Developer** with 
 <h3 align="left"> Other Weapons Tools:</h3>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/.psd_-Photoshop-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=for-the-badge&logo=Photoshop&logoColor=3a83c7&labelColor=black&color=3a83c7>
+  <img src="https://img.shields.io/badge/.psd_-Photoshop-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=for-the-badge&logo=Photoshop&logoColor=3a83c7&labelColor=black&color=3a83c7">
   <img src="https://img.shields.io/badge/.indd_-Adobe_InDesign-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=for-the-badge&logo=Ad&logoColor=eda558&labelColor=black&color=d43da7">
   <img src="https://img.shields.io/badge/.ai_-Adobe_Illustrator-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=for-the-badge&logo=Illustrator&logoColor=eda558&color=eda558">
   <img src="https://img.shields.io/badge/Figma-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=for-the-badge&logo=Figma&logoColor=b93ac7&labelColor=9cf0e5&color=b93ac7">
-  <img src="https://img.shields.io/badge/Sketch-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=for-the-badge&logo=Sketch&logoColor=ed8f1c&labelColor=black&color=ed8f1c">
-           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40">  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="40" height="40">   
-      
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-plain-wordmark.svg" height="40" width="40">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sketch/sketch-plain-wordmark.svg" hight="80" width="80">
-          
-          </p>
+  <img src="https://img.shields.io/badge/Sketch-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=for-the-badge&logo=Sketch&logoColor=ed8f1c&labelColor=black&color=ed8f1c"></p>
+
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deltagr&show_icons=true&locale=en&layout=compact" alt="deltagr" /></p>
 
