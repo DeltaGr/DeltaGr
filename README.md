@@ -40,21 +40,21 @@ Glad to see you here! I'm a passionate **Junior Full-Stack Web Developer** with 
 <p align="left">
 ### Tech Stack
 <br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/RubyOnRails-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=plastic&logo=rubyonrails&logoColor=white&color=red">  
-<img src="https://img.shields.io/badge/Webpacker-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=plastic&logo=Webpack&logoColor=white&color=blue">  
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
-<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
-<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=black">
+<img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/RubyOnRails-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=plastic&logo=rubyonrails&logoColor=white&style=for-the-badge&color=red">  
+<img src="https://img.shields.io/badge/Webpacker-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=plastic&logo=Webpack&logoColor=white&style=for-the-badge&color=blue">  
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&style=for-the-badge&logoColor=white"> 
+<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&style=for-the-badge&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&style=for-the-badge&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&style=for-the-badge&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&style=for-the-badge&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&style=for-the-badge&logoColor=white">
+<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?logo=react&style=for-the-badge&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=for-the-badge&logoColor=white">
   
 <br>
