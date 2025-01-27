@@ -49,7 +49,7 @@ I’m a full stack developer with a background in art and design, constantly exp
 <img src="https://img.shields.io/badge/Redux-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=for-the-badge&logo=Redux&color=4521c4">
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=for-the-badge&logoColor=white">
 </p>
-<h3 align="left"> Other Tools:</h3>
+<h2 align="left"> _Other Tools:</h2>
 <p align="left">
   <img src="https://img.shields.io/badge/.psd_-Photoshop-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=for-the-badge&logo=Photoshop&logoColor=3a83c7&labelColor=black&color=3a83c7">
   <img src="https://img.shields.io/badge/.indd_-Adobe_InDesign-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=for-the-badge&logo=Ad&logoColor=eda558&labelColor=black&color=d43da7">
