@@ -28,7 +28,7 @@ I’m a full stack developer with a background in art and design, constantly exp
 
 I’m a developer who loves discovering patterns in everything. From clean code to design aesthetics, I’m passionate about creating applications that follow a logical flow. I bring my artistic background into the world of code by crafting smooth, organized structures.
 
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">Tech Stack:
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">_Tech Stack:
 ---  
 <p align="left">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&style=for-the-badge&logoColor=white"> 
