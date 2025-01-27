@@ -28,7 +28,6 @@ I’m a full stack developer with a background in art and design, constantly exp
 
 I’m a developer who loves discovering patterns in everything. From clean code to design aesthetics, I’m passionate about creating applications that follow a logical flow. I bring my artistic background into the world of code by crafting smooth, organized structures.
 
----
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">Tech Stack:
 ---  
 <p align="left">
@@ -52,8 +51,6 @@ I’m a developer who loves discovering patterns in everything. From clean code 
 <img src="https://img.shields.io/badge/Redux-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=for-the-badge&logo=Redux&color=4521c4">
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=for-the-badge&logoColor=white">
 </p>
-
----
 
 **|**|
 |:---:|:---:|
