@@ -36,7 +36,8 @@ Glad to see you here! I'm a passionate **Junior Full-Stack Web Developer** with 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Teck Stack</b>
 <br>
-<br>                    
+<br>     
+<p align="left">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=black">
 <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/Ruby-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=for-the-badge&logo=Ruby&logoColor=white&logoSize=135px&labelColor=red&color=red">  
@@ -58,6 +59,7 @@ Glad to see you here! I'm a passionate **Junior Full-Stack Web Developer** with 
 <img src="https://img.shields.io/badge/Redux-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=for-the-badge&logo=Redux&color=4521c4">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=for-the-badge&logoColor=white"></a>
+</p>
   
 <br>
 <br>
