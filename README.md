@@ -32,6 +32,7 @@ I’m a developer who loves discovering patterns in everything. From clean code 
 
 ✅ Skills & Pattern Mastery:
 
+Skills**|**Information **|
 |:---:|:---:|
 |**Front-End:** <br/>🌐 HTML + CSS + JavaScript + React| I build clean, structured layouts that are a joy to navigate. Patterns like flexbox, grid and building pixel-perfect layouts that follow patterns such as responsiveness and modular design. 🔶📏 |
 | **Back-End:** <br/> ⚙️ Node.js + Ruby on Rails + MongoDB | Structuring APIs and databases to make sure data flows like clockwork, where every part has its place in the system. 🔗📊 |
