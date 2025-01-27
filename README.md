@@ -1,4 +1,4 @@
-<h1 align="center">## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<h1 align="left"> //* Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <!--
 **DeltaGr/DeltaGr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,8 +24,7 @@ I'm Charlotte </h1>
 
 <br>
 
-<p align='center'>
-
+<p align='left'>
 
 Glad to see you here! I'm a passionate **Junior Software Engineer** with a strong passion for **JavaScript**, **Ruby on Rails**, **CSS** and **HTML**. 
 
