@@ -49,8 +49,11 @@ Glad to see you here! I'm a passionate **Junior Full-Stack Web Developer** with 
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+<img src="(https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white">
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 <br>
 <br>
