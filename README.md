@@ -34,29 +34,27 @@ I’m a developer who loves discovering patterns in everything. From clean code 
 
 ✅ Skills & Pattern Mastery:
 
-**Front-End:** 🌐 HTML + CSS + JavaScript + React
+**Front-End:** 🌐 HTML + CSS + JavaScript + React<br>
 – I build clean, structured layouts that are a joy to navigate. Patterns like flexbox, grid and building pixel-perfect layouts that follow patterns such as responsiveness and modular design. 🔶📏
 <br>
-**Back-End:** ⚙️ Node.js + Ruby on Rails + MongoDB
+**Back-End:** ⚙️ Node.js + Ruby on Rails + MongoDB<br>
 – Structuring APIs and databases to make sure data flows like clockwork, where every part has its place in the system. 🔗📊
 <br>
-**Version Control:** Git (always)
+**Version Control:** Git (always)<br>
 – Keeping everything in check, organized, and on track, like branches in a tree. 🌳
 - Design: 🎨 Designing UI patterns and UX flows that prioritize user needs and create smooth journeys. 🟣💡
   <br>
   **Artistic Eye:** I know how to make things pretty, and functional too! 🎨
   <br> 
-🌍 Remote = My ideal habitat
-📍 Open to Relocation (Pattern matches with your team? I’m there!)
+🌍 Remote = My ideal habitat<br>
+📍 Open to Relocation (Pattern matches with your team? I’m there!)<br>
 
 Currently job-hunting and excited to join a team that values my unique approach to problem-solving. Let's create something amazing together!
 Ready to build the future, one line of code at a time. Let’s make magic happen! ✨
 
 <br>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack:</b>
-<br>
-<br>     
+<br>   
 <p align="left">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&style=for-the-badge&logoColor=white"> 
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?&logo=css3&style=for-the-badge&logoColor=white">
@@ -78,7 +76,6 @@ Ready to build the future, one line of code at a time. Let’s make magic happen
 <img src="https://img.shields.io/badge/Redux-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=for-the-badge&logo=Redux&color=4521c4">
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=for-the-badge&logoColor=white">
 </p>
-
 ## <h3 align="left"> Other Tools:</h3> ## 
 <br>
 <p align="left">
@@ -88,11 +85,8 @@ Ready to build the future, one line of code at a time. Let’s make magic happen
   <img src="https://img.shields.io/badge/Figma-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=for-the-badge&logo=Figma&logoColor=b93ac7&labelColor=9cf0e5&color=b93ac7">
   <img src="https://img.shields.io/badge/Sketch-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=for-the-badge&logo=Sketch&logoColor=ed8f1c&labelColor=black&color=ed8f1c"></p>
 </p></div>
-
-
+<br>
 <p align='left'>
-
-Glad to see you here! I'm a **Junior Full Stack Web Developer** with a passion for  **Ruby on Rails**, **JavaScript**, **CSS** and **HTML**. 
 
  🔭 I’m currently working on **new projects**
  🌱 I’m currently learning **Python**
