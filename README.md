@@ -34,13 +34,9 @@ Glad to see you here! I'm a passionate **Junior Full-Stack Web Developer** with 
 </p>
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skillset</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Teck Stack</b>
 <br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-### Tech Stack
-<br>
-                    
+<br>                    
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=for-the-badge&logoColor=black">
 <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/Ruby-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=for-the-badge&logo=Ruby&logoColor=white&logoSize=135px&labelColor=red&color=red">  
