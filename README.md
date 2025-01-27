@@ -36,6 +36,8 @@ Glad to see you here! I'm a passionate **Junior Full-Stack Web Developer** with 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skillset</b>
 <br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
 ### Tech Stack
 <br>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
@@ -50,13 +52,11 @@ Glad to see you here! I'm a passionate **Junior Full-Stack Web Developer** with 
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white">
-<img src="(https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white">
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white">
 <br>
 <br>
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
