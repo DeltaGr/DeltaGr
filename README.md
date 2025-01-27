@@ -52,7 +52,9 @@ Glad to see you here! I'm a passionate **Junior Full-Stack Web Developer** with 
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&style=for-the-badge&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&style=for-the-badge&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&style=for-the-badge&logoColor=white">
-<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&style=for-the-badge&logoColor=white">
+  https://img.shields.io/badge/Heroku-F7DF1E%3Flogo%3Drubyonrails%26logoColor%3Dred?style=for-the-badge&logo=Heroku&logoColor=white&logoSize=135px&color=lila
+
+<img src="http://img.shields.io/badge/-Heroku-430098?&logo=heroku&style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?logo=react&style=for-the-badge&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=for-the-badge&logoColor=white">
