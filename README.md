@@ -80,11 +80,11 @@ Ready to build the future, one line of code at a time. Let’s make magic happen
 
 <p align='left'>
 
- 🔭 I’m currently working on **new projects**
- 🌱 I’m currently learning **Python**
+ 🔭 I’m currently working on **new projects**<br>
+ 🌱 I’m currently learning **Python**<br>
 
  💡 Always Curious – I’m constantly learning and evolving, bringing new ideas and a unique perspective to everything I do. I love building systems that are efficient, logical, and visually appealing.
-
+<br>
  🧠  My brain loves logic, and structure. I dive deep into patterns, systems, and problem-solving. I’m drawn to the systems, cycles, and grids that drive good code. Everything has its place—like components, loops, and functions that fit together seamlessly. Think of me as a precision artist, but instead of a paintbrush, I wield JavaScript and Ruby on Rails.
 
 </p>
