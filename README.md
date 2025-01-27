@@ -41,16 +41,15 @@ I’m a developer who loves discovering patterns in everything. From clean code 
 | **Artistic Eye:** <br/>| I know how to make things pretty, and functional too! 🎨 |
 
   <br> 
-🌍 Remote = My ideal habitat<br>
+🌍 Remote = My ideal habitat
+
 📍 Open to Relocation (Pattern matches with your team? I’m there!)<br>
 
 Currently job-hunting and excited to join a team that values my unique approach to problem-solving. Let's create something amazing together!
 Ready to build the future, one line of code at a time. Let’s make magic happen! ✨
 
----
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">Tech Stack:
----
-   
+---  
 <p align="left">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&style=for-the-badge&logoColor=white"> 
 <img src = "https://img.shields.io/badge/-CSS3-1572B6?&logo=css3&style=for-the-badge&logoColor=white">
