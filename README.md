@@ -32,6 +32,8 @@ I’m a full stack developer with a background in art and design, constantly exp
 
 I’m a developer who loves discovering patterns in everything. From clean code to design aesthetics, I’m passionate about creating applications that follow a logical flow. I bring my artistic background into the world of code by crafting smooth, organized structures.
 
+***
+
 ✅ Skills & Pattern Mastery:
 
 **Front-End:** 🌐 HTML + CSS + JavaScript + React<br>
@@ -52,7 +54,10 @@ I’m a developer who loves discovering patterns in everything. From clean code 
 Currently job-hunting and excited to join a team that values my unique approach to problem-solving. Let's create something amazing together!
 Ready to build the future, one line of code at a time. Let’s make magic happen! ✨
 
-##<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">Tech Stack:
+***
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">Tech Stack:
+   ***
    
 <p align="left">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?&logo=html5&style=for-the-badge&logoColor=white"> 
@@ -76,7 +81,10 @@ Ready to build the future, one line of code at a time. Let’s make magic happen
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=for-the-badge&logoColor=white">
 </p>
 
-##<h3 align="left"> Other Tools:</h3>
+***
+<h3 align="left"> Other Tools:</h3>
+
+***
 
 <br>
 <p align="left">
