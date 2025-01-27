@@ -21,7 +21,7 @@ I'm Charlotte </h1>
 <div align="right>
   <p align="left">
 
-**🔬 Junior Full Stack Web Developer | Artistic Mind, Architect of Patterns & Code** 🌠
+**Junior Full Stack Web Developer | 🔬 Artistic Mind, Architect of Patterns & Code** 
 
 Graduated and full of ideas – now I’m here to experiment and push the boundaries of what code can do and to tackle the web development universe! 
 I’m a full stack developer with a background in art and design, constantly exploring new ways to blend creativity with cutting-edge technology and crafting smooth, organized structures.
