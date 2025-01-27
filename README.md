@@ -76,7 +76,6 @@ Currently job-hunting and excited to join a team that values my unique approach 
 Ready to build the future, one line of code at a time. Let’s make magic happen! ✨
 
 <hr>
-<br>
 <p align='left'>
 
  🔭 I’m currently working on **new projects**<br>
