@@ -26,16 +26,13 @@ Here are some ideas to get you started:
 
 <p align='center'>
 
-<a href="https://leetcode.com/u/vinitshahdeo/"><img src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fvinitshahdeo&logo=leetcode&logoColor=yellow"/></a>
-</p>
 
-Glad to see you here! I'm a **Junior Software Engineer** with a strong passion for **JavaScript**, **Ruby on Rails**, **CSS** and **HTML**. 
+Glad to see you here! I'm a passionate **Junior Software Engineer** with a strong passion for **JavaScript**, **Ruby on Rails**, **CSS** and **HTML**. 
 
-
-- A passionate Self-taught Front-end developer
-- Currently learning Web Development by Self
+- Currently learning **Python** by Self 
 - I’m currently open for a new job opportunity
 
+</p>
 <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skillset</b>
