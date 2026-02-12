@@ -86,20 +86,6 @@ Ready to build the future, one line of code at a time. Let’s make magic happen
  🧠  My brain loves logic, and structure. I dive deep into patterns, systems, and problem-solving. I’m drawn to the systems, cycles, and grids that drive good code. Everything has its place—like components, loops, and functions that fit together seamlessly. Think of me as a precision artist, but instead of a paintbrush, I wield JavaScript and Ruby on Rails.
 
 </p>
-<br>
-<br>
-<div align="center">
-    <table >
-     <tr>
-        <td><b>**</b></td>
-        <td><b>daily.dev</b></td>
-     </tr>
-     <tr>
-       <td></td>
-        <td> <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deltagr&show_icons=true&locale=en&layout=compact" alt="deltagr" /></p></td>
-     </tr>
-    </table>
-    </div>
     <br>
 <br>
 
